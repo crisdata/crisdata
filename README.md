@@ -1,5 +1,5 @@
 ### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Cristian 💻
-#### Front-end Web Developer in training
+# Front-end Web Developer in training
 
 A person connected to the world by passion for web development; lover of continuous learning, teaching and simple designs that inspire and connect with people.
 
